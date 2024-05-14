@@ -1,0 +1,1 @@
+My repository for small Go projects for the sake of learning and practice. Things like data structures, algorithms, etc. I also want to create it with the possibility of importing it later in mind, although I might not, since there will likely be established referenced implementations in the place of what I'll be adding here. 
